@@ -233,7 +233,7 @@
         "uniqueIdentifier": true
     },
     "date:fiscal-year": {
-        "dataType": "integer",
+        "dataType": "year",
         "dimensionType": "datetime",
         "uniqueIdentifier": true
     },
