@@ -1153,7 +1153,8 @@
     },
     "unknown:test": {
         "dimensionType": "other",
-        "dataType": "string"
+        "dataType": "string",
+        "parent": ""
     },
     "unknown:date": {
         "dimensionType": "other",
