@@ -1229,6 +1229,10 @@
     "displayName": "Unknown Mapping - String",
     "description": "An unknown string column with no mapping"
   },
+  "unknown:test": {
+    "displayName": "Unknown Mapping - Test String",
+    "description": "An unknown string column with no mapping for testing updates to types"
+  },
   "unknown:date": {
     "displayName": "Unknown Mapping - Date",
     "description": "An unknown date column with no mapping"

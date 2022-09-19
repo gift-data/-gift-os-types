@@ -1151,6 +1151,10 @@
         "dimensionType": "other",
         "dataType": "string"
     },
+    "unknown:test": {
+        "dimensionType": "other",
+        "dataType": "string"
+    },
     "unknown:date": {
         "dimensionType": "other",
         "dataType": "date"
