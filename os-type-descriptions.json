@@ -798,7 +798,7 @@
   },
   "geo-source:generic:code": {
     "displayName": "Unique Identifier",
-    "description": "Unique identifier or code for Geographic feature specified in the data"
+    "description": "Unique identifier or code for Geographic feature specified in the data."
   },
   "geo-source:generic:codeList": {
     "displayName": "Code List",
